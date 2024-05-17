@@ -12,7 +12,7 @@ spring:
     
 eureka:
   instance:
-    hostname: 192.168.106.100
+    hostname: 192.168.106.110
   client:
     registerWithEureka: false 
     fetchRegistry: false 
@@ -30,7 +30,7 @@ spring:
 
 eureka:
   instance:
-    hostname: 192.168.106.100 
+    hostname: 192.168.106.110 
   client:
     registerWithEureka: false 
     fetchRegistry: false 
